@@ -1,4 +1,9 @@
 # Financial Analysis and Price Prediction
+### /**
+
+### author Sayali Walke
+
+### **/
 
 ### Carried out data analysis on 502 stocks
 
