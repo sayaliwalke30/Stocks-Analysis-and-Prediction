@@ -1,4 +1,4 @@
-# Financial Analysis and Price Prediction
+# Financial Analysis and Price Prediction using Machine Learning 
 ### /**
 
 ### author Sayali Walke
