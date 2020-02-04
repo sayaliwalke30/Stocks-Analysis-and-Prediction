@@ -1,5 +1,6 @@
 # Financial Analysis and Price Prediction
-## Problem Statement: In depth 
+## Problem Statement: 
+##### Create a Hedge fund with in depth analysis of 500 stocks.  
 ### /**
 
 ### author Sayali Walke
