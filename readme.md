@@ -1,5 +1,5 @@
 # Financial Analysis and Price Prediction
-## Problem Statement: 
+## Problem Statement: In depth 
 ### /**
 
 ### author Sayali Walke
