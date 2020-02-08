@@ -1,4 +1,4 @@
-# Financial Analysis and Price Prediction
+# Financial Analysis of Stocks and Price Prediction
 ## Problem Statement: 
 ##### Create a Hedge fund with in depth analysis of 500 stocks.  
 ### /**
