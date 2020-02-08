@@ -1,6 +1,6 @@
 # Financial Analysis of Stocks and Price Prediction
 ## Problem Statement: 
-##### Create a Hedge fund with in depth analysis of 500 stocks.  
+##### Create a Hedge fund that will give good return on equity  
 ### /**
 
 ### author Sayali Walke
