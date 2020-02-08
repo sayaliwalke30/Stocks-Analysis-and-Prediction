@@ -7,8 +7,6 @@
 
 ### **/
 
-### Carried out data analysis on 502 stocks
-
 ## Steps:
 #### 1. Web scrapped around 25 stocks fundamentals for each of 502 stocks using python
 #### 2. Carried out in depth data analysis on web scrapped data
