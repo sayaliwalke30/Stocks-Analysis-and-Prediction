@@ -1,6 +1,6 @@
 # Financial Analysis of Stocks and Price Prediction
 ## Problem Statement: 
-#### Stocks analysis using financial statistics and  
+#### Stocks analysis using financial statistics and price prediction 
 ### /**
 
 ### author Sayali Walke
