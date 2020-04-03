@@ -8,7 +8,7 @@
 ### **/
 
 ## Steps:
-#### 1. Web scrapped using python around 25 stocks fundamentals for each of 502 stocks using python
+#### 1. Web scrapped using python around 25 stocks fundamentals for each of 502 stocks using python.
 #### 2. Carried out in depth data analysis on web scrapped data
 #### 3. Selected 5 Stocks that are suitable for investing using SQl
 #### 4. Created an innovative interactive dashboard using POWER BI which can be used by anyone for value investing
